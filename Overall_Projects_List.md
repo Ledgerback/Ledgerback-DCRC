@@ -1,12 +1,12 @@
 # Overall Projects List
 
-This list covers all the work that members are undertaking in the cooperative. 
+This list covers all the projects that members are undertaking in the cooperative. 
 
 # Members
 
 ## Charles
 
-
+### Intellectual Outputs
 | Project Name | Areas | Exected outputs?| Links|
 |--------------|-------| ----------------|------|
 | Introduction to Platform cooperativism | Learning and education| Presentation and Notes for someone to build a course or self-study | Link|
@@ -14,8 +14,10 @@ This list covers all the work that members are undertaking in the cooperative.
 | Decentralized and Open Thinking | Learning and education| Presentation and Notes for someone to build a course or self-study | Link|
 | HyperKnowledge Framework | Knowledge-building| Presentation and Notes for someone to build a course | Link|
 
+
 ## Jack
 
+### Intellectual Outputs
 
 | Project Name | Areas | Exected outputs?| Links|
 |--------------|-------| ----------------|------|
