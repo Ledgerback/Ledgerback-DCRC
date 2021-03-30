@@ -14,11 +14,16 @@ Questions, comments or concerns? Send [Author] a message on Slack.
 # Outline
 
 1. [What we are doing](#Doing)
-2. [What we are reading](#Reading)
-3. [Member Spotlight](#Spotlight)
-4. [Highlighting external projects](#Projects)
+2. [What we are thinking](#Thinking)
+3. [What we are reading](#Reading)
+4. [Member Spotlight](#Spotlight)
+5. [Highlighting external projects](#Projects)
 
 # Doing
+
+...
+
+# Thinking
 
 ...
 
